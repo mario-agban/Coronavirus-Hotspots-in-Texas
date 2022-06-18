@@ -8,7 +8,6 @@ We analyze:
 - Texas County geographical data (used for visualization purposes)
 
 To view the project with interactive data visualizations:
-https://nbviewer.jupyter.org/github/Shikhar-G/Coronavirus-Hotspots/blob/master/Final%20Project.ipynb
-
+https://nbviewer.org/github/mario-agban/Coronavirus-Hotspots-in-Texas/blob/master/Coronavirus%20Hotspots%20in%20Texas.ipynb
 
 
